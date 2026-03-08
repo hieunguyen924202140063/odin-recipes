@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto;
+    padding: 5px;
+    border: 1px solid rgb(1, 100, 26);
+    color: white;
+    background-color: seagreen;
+}
+
+.home-link {
+    margin: 20px;
+    padding: 5px 10px;
+    border: 1px solid rgb(250, 159, 2);
+    color: white;
+    background-color: rgb(250, 159, 2);
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
